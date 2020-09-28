@@ -1,9 +1,13 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:drama"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
+	margin: 1em auto;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -32,11 +36,6 @@
 	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
-}
-
-table[epub|type~="z3998:drama"],
-[epub|type~="z3998:drama"] table{
-	margin: 1em auto;
 }
 
 [epub|type~="z3998:stage-direction"]{
