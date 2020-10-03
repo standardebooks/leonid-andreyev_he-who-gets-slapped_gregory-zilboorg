@@ -42,14 +42,14 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A mysterious gentleman joins a circus troupe as a clown.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A mysterious gentleman arrives at Papa Briquet’s circus, and applies to be a clown; unable to do a backflip, and with the circus unwilling to accept the idea of political discourse among the clowns, they settle together on the role of He Who Gets Slapped. Unfortunately for the troupe, He has motives for joining that aren’t immediately apparent; motives that start to threaten the integrity of the circus.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;He Who Gets Slapped&lt;/i&gt; was first presented in Moscow in 1915 to enthusiastic audiences, although critics at the time were confused about &lt;a href="https://standardebooks.org/ebooks/leonid-andreyev"&gt;Leonid Andreyev’s&lt;/a&gt; subtexts. It is his most famous play, at least partially due to the later release in 1924 of &lt;a href="https://archive.org/details/HeWhoGetsSlapped1924VictorSjstrmUsa"&gt;a film adaptation&lt;/a&gt; by the newly-formed MGM Studios.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37961</dc:source>
 		<dc:source>https://archive.org/details/hewhogetsslapped00andr/</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_he-who-gets-slapped_gregory-zilboorg</meta>
