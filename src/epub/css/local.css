@@ -13,6 +13,7 @@ footer{
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
+	width: 100%;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
