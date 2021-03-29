@@ -45,7 +45,7 @@
 		<dc:description id="description">A mysterious gentleman joins a circus troupe as a clown.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A mysterious gentleman arrives at Papa Briquet’s circus, and applies to be a clown; unable to do a backflip, and with the circus unwilling to accept the idea of political discourse among the clowns, they settle together on the role of He Who Gets Slapped. Unfortunately for the troupe, He has motives for joining that aren’t immediately apparent; motives that start to threaten the integrity of the circus.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;He Who Gets Slapped&lt;/i&gt; was first presented in Moscow in 1915 to enthusiastic audiences, although critics at the time were confused about &lt;a href="https://standardebooks.org/ebooks/leonid-andreyev"&gt;Leonid Andreyev’s&lt;/a&gt; subtexts. It is his most famous play, at least partially due to the later release in 1924 of &lt;a href="https://archive.org/details/HeWhoGetsSlapped1924VictorSjstrmUsa"&gt;a film adaptation&lt;/a&gt; by the newly-formed MGM Studios.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;He Who Gets Slapped&lt;/i&gt; was first presented in Moscow in 1915 to enthusiastic audiences, although critics at the time were confused about &lt;a href="https://standardebooks.org/ebooks/leonid-andreyev"&gt;Leonid Andreyev’s&lt;/a&gt; subtexts. It is his most famous play, at least partially due to the later release in 1924 of a film adaptation by the newly-formed MGM Studios.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37961</dc:source>
