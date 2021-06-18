@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/37961</dc:source>
 		<dc:source>https://archive.org/details/hewhogetsslapped00andr/</dc:source>
 		<meta property="se:word-count">25933</meta>
-		<meta property="se:reading-ease.flesch">79.46</meta>
+		<meta property="se:reading-ease.flesch">79.77</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_he-who-gets-slapped_gregory-zilboorg</meta>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
 		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
